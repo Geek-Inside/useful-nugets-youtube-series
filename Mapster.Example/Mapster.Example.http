@@ -1,0 +1,6 @@
+@Mapster_HostAddress = http://localhost:5052
+
+GET {{Mapster_HostAddress}}/users/1
+Accept: application/json
+
+###

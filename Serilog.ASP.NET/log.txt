@@ -1,0 +1,9 @@
+2024-02-11 14:52:19.530 +03:00 [INF] Now listening on: http://localhost:5084
+2024-02-11 14:52:19.556 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-02-11 14:52:19.557 +03:00 [INF] Hosting environment: Development
+2024-02-11 14:52:19.558 +03:00 [INF] Content root path: C:\Users\Mimiyo\Documents\_Code\_Projects\_YouTube\Nugets\UsefulNugets\Serilog.ASP.NET
+2024-02-11 14:52:50.854 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5084/log/ - null null
+2024-02-11 14:52:50.943 +03:00 [INF] Executing endpoint 'HTTP: GET /log'
+2024-02-11 14:52:50.946 +03:00 [INF] Hello, Serilog!
+2024-02-11 14:52:50.947 +03:00 [INF] Executed endpoint 'HTTP: GET /log'
+2024-02-11 14:52:50.961 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5084/log/ - 200 0 null 107.267ms

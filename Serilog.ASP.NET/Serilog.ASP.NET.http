@@ -1,0 +1,6 @@
+@Serilog.ASP.NET_HostAddress = http://localhost:5084
+
+GET {{Serilog.ASP.NET_HostAddress}}/log/
+Accept: application/json
+
+###

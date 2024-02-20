@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+    <PropertyGroup>
+        <TargetFramework>net8.0</TargetFramework>
+        <Nullable>enable</Nullable>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <InvariantGlobalization>true</InvariantGlobalization>
+        <UserSecretsId>9f0aaa54-2449-42b8-a6a8-6473199fb5aa</UserSecretsId>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="Serilog.AspNetCore" Version="8.0.1" />
+    </ItemGroup>
+
+</Project>
